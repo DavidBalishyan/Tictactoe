@@ -78,3 +78,4 @@ function calculateWinner(squares) {
   return null;
 }
 
+console.log("running TicTacToe whith 3000 port");
